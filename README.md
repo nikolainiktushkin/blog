@@ -1,0 +1,2 @@
+# blog
+easy GitHub blog
